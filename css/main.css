@@ -174,7 +174,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 }
 .team .item:hover .des{
 	height: 100%;
-	background:#f973007d;
+	background:#00D5FF;
     position: absolute;
 	width: 89%;
 	padding: 5em;
