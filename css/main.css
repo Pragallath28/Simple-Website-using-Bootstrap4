@@ -44,7 +44,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 	min-width: 100%;
 	left: 0;
 	top: 0;
-	background: #00D5FF;
+	background: rgba(244, 244, 244, 0.79);
 }
 .description{
     position: absolute;
@@ -174,7 +174,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 }
 .team .item:hover .des{
 	height: 100%;
-	background:#00D5FF;
+	background:#f973007d;
     position: absolute;
 	width: 89%;
 	padding: 5em;
